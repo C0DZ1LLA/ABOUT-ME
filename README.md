@@ -1,100 +1,165 @@
-<!--
-  Futuristic GitHub Profile README (No project links / no username references)
-  Paste into your profile repo README.md
--->
+<!-- ============================= -->
+<!--        SAMAN README           -->
+<!-- ============================= -->
+
+<h1 align="center">
+  <span style="color:#d4af37;">Saman</span>
+</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Saman%20Abotaleby&fontAlign=50&fontAlignY=34&color=0:050816,100:0b1220&fontColor=00f5ff&desc=AI%20Builder%20%E2%80%A2%20Next.js%20%E2%80%A2%20Unity%20%E2%80%A2%20Futuristic%20UI&descAlign=50&descAlignY=58" />
+  <i>Multidisciplinary Creator • Full-Stack Developer • System Builder • Futurist</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2400&pause=420&color=00F5FF&center=true&vCenter=true&width=920&lines=Systems%20that%20feel%20alive.;Interfaces%20that%20feel%20future.;AI%20workflows%20%E2%86%92%20real%20products.;Build.%20Ship.%20Evolve." />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656973-63e3b400-1b7c-4f2a-9d69-1c1c34ddc4b5.gif" width="920" alt="glow divider" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Mode-Builder-00f5ff?style=for-the-badge&logo=vercel&logoColor=0b1220" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Web%20%2B%203D-00f5ff?style=for-the-badge&logo=react&logoColor=0b1220" />
-  <img src="https://img.shields.io/badge/Timezone-Asia%2FNicosia-00f5ff?style=for-the-badge&logo=clockify&logoColor=0b1220" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=D4AF37&center=true&vCenter=true&width=520&lines=Building+Futuristic+Digital+Systems;AI+%7C+Web+%7C+Automation+%7C+3D;From+Idea+to+Production;Turning+Complexity+Into+Tools" />
 </p>
 
 ---
 
-## 🧬 Identity Kernel
-**SAMANCONNECT** is my “build engine” — a mindset + toolkit for creating:
-- **AI-driven workflows** (LLMs, automation, assistants)
-- **Next.js systems** (fast, secure, deployable)
-- **Unity real-time experiences** (3D, interactive sim layers)
-- **Futuristic UI** (neon glass, clean structure, high clarity)
+## 🧬 About Me
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/215283072-3a0f4f6e-1a0c-4f5a-8b19-8b9eaa2b3b65.gif" width="920" alt="neon line" />
-</p>
+I am a **self-taught, multidisciplinary creator** who builds **digital systems, tools, simulations, and products** from the ground up.
 
-## ⚙️ Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,nodejs,firebase,vercel,git,github,python,unity" />
-</p>
+My work sits at the intersection of:
 
----
+- **Software Engineering**
+- **Artificial Intelligence**
+- **Design & UX**
+- **Automation**
+- **System Architecture**
+- **Experimental & Futuristic Interfaces**
 
-## 🛰️ The Way I Build
-- **Clarity first:** constraints → architecture → clean modules  
-- **Secure by default:** validation, safe rendering, least-privilege mindset  
-- **Ship fast:** prototype → iterate → harden → deploy  
-- **Product thinking:** UI polish + measurable outcomes + repeatable systems  
+I don’t just write code —  
+I **design ecosystems**, **invent workflows**, and **turn abstract ideas into working products**.
+
+> I’m driven by curiosity, independence, and the belief that complex systems should feel powerful *and* intuitive.
 
 ---
 
-## 🧪 Live “Console” (Animated)
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  STATUS: ONLINE                                              ║
-║  MODE:   FUTURE-READY BUILDS                                 ║
-║  LOOP:   IDEA → PROTOTYPE → PRODUCT → IMPROVE                ║
-║  RULE:   SIMPLE UI  +  STRONG LOGIC  =  SCALABLE SYSTEMS      ║
-╚══════════════════════════════════════════════════════════════╝
-```
+## 🧠 How I Think
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656978-3d8ad9d8-6dba-4c8a-b9b0-77f74f5900a7.gif" width="920" alt="animated grid" />
-</p>
+- I think in **systems**, not isolated features  
+- I prototype fast and iterate aggressively  
+- I learn by building, breaking, and rebuilding  
+- I’m comfortable crossing disciplines (AI ↔ UI ↔ backend ↔ automation)  
+- I prefer ownership, autonomy, and end-to-end creation  
 
----
-
-## ✨ “Animations” You Can Use on GitHub (No JS needed)
-GitHub blocks scripts — but these create a **real animated profile vibe**:
-- ✅ **GIF dividers / neon loops**
-- ✅ **Typing SVG headers**
-- ✅ **Capsule-render banners**
-- ✅ **Badges + skill icons**
-- ✅ **Collapsible panels** for a clean “console UI” feel
-
-<details>
-  <summary><b>🧠 Playbook (click)</b></summary>
-
-- Build a landing-ready **portfolio section** (screenshots/GIFs only)
-- Add a **workflow badge row** (tests, build, deploy)
-- Add **“Now / Next / Later”** roadmap cards
-- Add **Pinned Repos** manually on GitHub to control the “home screen”
-
-</details>
+This makes me especially strong at:
+- Solo product development
+- Rapid prototyping
+- Turning chaos into structure
+- Designing tools people actually use
 
 ---
 
-## 🧿 Brand Aesthetic
-- Palette: **#050816** (deep space) • **#0b1220** (panel) • **#00f5ff** (neon)
-- UI style: **glass panels + crisp typography + glow separators**
-- Tone: **professional, calm, confident**
+## ⚙️ Tech Stack
+
+### 🌐 Web & App Development
+- **Next.js (App Router)**
+- **React 18**
+- **JavaScript / HTML5 / CSS3**
+- **Tailwind CSS**
+- **Vercel (CI/CD & deployment)**
+
+### 🔐 Backend & Infrastructure
+- **Firebase** (Auth, Firestore, Storage, Security Rules)
+- **Stripe** (payments, subscriptions, webhooks)
+- **Server Actions / APIs**
+- **Secure API communication & validation**
+
+### 🤖 AI & Automation
+- **OpenAI API (GPT models)**
+- **AI-powered tools & assistants**
+- **n8n workflows & automation**
+- **Prompt systems & AI logic layers**
+
+### 🧪 Experimental & Creative Tech
+- **Unity 3D** (interactive simulations, AR/VR concepts)
+- **Python** (Tkinter GUIs, utilities, scripts)
+- **HTML5 Canvas / interactive visuals**
+- **System simulators (space, chemistry, logic, labs)**
+
+---
+
+## 🧩 What I Build
+
+- 🧠 AI-powered dashboards & tools  
+- 🧾 Booking systems & admin panels  
+- 📦 Digital product platforms  
+- ⚡ Automation pipelines  
+- 🧪 Interactive simulations & labs  
+- 🎛️ Control centers & internal tools  
+- 🎨 Futuristic UI systems (neon / gold / dark themes)
+
+I’m especially interested in **products that combine intelligence + usability**.
+
+---
+
+## 🎨 Design Philosophy
+
+- Dark, futuristic interfaces  
+- Gold / neon / cyberpunk aesthetics  
+- Clean layouts with depth & glow  
+- Interfaces that feel *alive*  
+- Form follows function — but with style
+
+> If it doesn’t feel powerful to use, it’s not finished.
+
+---
+
+## 🧭 Current Focus
+
+- Building **scalable digital products**
+- Developing **AI-driven systems**
+- Creating **monetizable tools**
+- Refining **personal brand & portfolio**
+- Shipping consistently and publicly
+
+---
+
+## 🧠 Strengths
+
+- End-to-end product ownership  
+- Rapid learning across domains  
+- Strong system & product intuition  
+- Visual + technical thinking combined  
+- Ability to work independently at high intensity  
+
+---
+
+## ⚠️ Challenges (Actively Managed)
+
+- Too many ideas → focus is key  
+- Preference for creation over maintenance  
+- High standards → iterative shipping matters  
+
+I actively counter these with structure, milestones, and shipping discipline.
+
+---
+
+## 🌌 Vision
+
+My long-term goal is to build a **portfolio of digital products and systems** that:
+
+- Solve real problems  
+- Feel futuristic and elegant  
+- Generate sustainable income  
+- Reflect curiosity and innovation  
+
+I aim to grow as a **creator-founder**, not just a developer.
+
+---
+
+## 📫 Let’s Connect
+
+- 🌍 Portfolio: *(coming / evolving)*
+- 💡 Open to collaboration on meaningful projects
+- 🛠️ Always building
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=96&text=BUILD%20THE%20FUTURE%20%E2%86%92&fontAlign=50&fontAlignY=50&color=0:0b1220,100:050816&fontColor=00f5ff" />
-</p>
-
-<!-- Optional: keep or remove this single link -->
-<p align="center">
-  <sub>Website: https://www.samanconnect.com/</sub>
+  <sub style="color:#a89b78;">
+    “Complexity doesn’t scare me — it motivates me.”
+  </sub>
 </p>
