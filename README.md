@@ -1,6 +1,124 @@
-# 💫 About Me:
-Hey there!<br><br>I'm a game developer and programmer with a passion for creating immersive and engaging experiences. Whether it's through the use of cutting-edge technology or classic game design principles, I strive to bring my creations to life and share them with the world.<br><br>In my free time, you can find me tinkering with new game engines and frameworks, collaborating with fellow developers on open source projects, and always looking for ways to improve my skills and knowledge.
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saman.abotaleby) 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Saman%20Abotaleby&fontAlign=50&fontAlignY=35&color=0:050816,100:0b1220&fontColor=00f5ff&desc=AI%20Builder%20%7C%20Next.js%20%7C%20Unity%20%7C%20Futuristic%20UI&descAlign=50&descAlignY=58" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2600&pause=380&color=00F5FF&center=true&vCenter=true&width=900&lines=Ship%20clean%20systems.%20Build%20futuristic%20interfaces.;Next.js%20%2B%20Vercel%20%2B%20OpenAI%20%7C%20Production%20mindset.;Unity%20real-time%203D%20%7C%20Web%20apps%20%7C%20Automation.;Ideas%20%E2%86%92%20Prototypes%20%E2%86%92%20Products%20%E2%86%92%20Revenue." />
+</p>
+
+<p align="center">
+  <a href="https://www.samanconnect.com/">
+    <img src="https://img.shields.io/badge/Website-samanconnect.com-00f5ff?style=for-the-badge&logo=googlechrome&logoColor=0b1220" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-@YOUR_USERNAME-00f5ff?style=for-the-badge&logo=github&logoColor=0b1220" />
+  </a>
+  <img src="https://img.shields.io/badge/Timezone-Asia%2FNicosia-00f5ff?style=for-the-badge&logo=clockify&logoColor=0b1220" />
+</p>
+
+<p align="center">
+  <!-- “Glow line” divider -->
+  <img src="https://user-images.githubusercontent.com/74038190/216656973-63e3b400-1b7c-4f2a-9d69-1c1c34ddc4b5.gif" width="920" />
+</p>
+
+## 🧬 Professional Summary
+I build **production-ready web apps** with a futuristic UI edge — and I’m obsessed with systems that feel *alive*:
+- **AI integrations** (OpenAI workflows, agents, automation)
+- **Next.js + Vercel** (secure, scalable deployment, CI mindset)
+- **Unity real-time experiences** (3D sims + interactive prototypes)
+- **Monetizable products** (Stripe flows, secure delivery, dashboards)
+
+---
+
+## ⚙️ Core Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,nodejs,firebase,vercel,git,github,python,unity" />
+</p>
+
+---
+
+## 🛰️ Live Signals
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github&hide_border=true&bg_color=050816&title_color=00f5ff&text_color=e6f9ff&icon_color=00f5ff" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true&background=050816&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=9caac7&stroke=0b1220" />
+</p>
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050816&title_color=00f5ff&text_color=e6f9ff" />
+</p>
+
+---
+
+## 🧩 Featured Systems (edit these to match your pinned repos)
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚀 AionCodeOracle</h3>
+      <p>AI-powered tools + futuristic UI experiments. Fast prototypes that evolve into products.</p>
+
+    </td>
+    <td width="50%">
+      <h3>📅 Universal Booking Engine</h3>
+      <p>Admin-first booking system with settings engine, clean UX, and scalable logic.</p>
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🧪 Simulation Lab</h3>
+      <p>Interactive simulations (space/chem/3D) — HTML prototypes → Next.js builds.</p>
+
+    </td>
+    <td width="50%">
+      <h3>💳 Digital Storefront</h3>
+      <p>Stripe-powered product delivery: secure downloads, receipts, and admin control.</p>
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧠 What I’m focusing on now
+- Turning **simulations + AI tools** into real products people pay for  
+- Building **repeatable workflows** (CI, tests, secure APIs, input validation)  
+- Designing **futuristic UI systems** (glass, neon, motion, clarity)
+
+<details>
+  <summary><b>🧪 “Labs” (click to expand)</b></summary>
+
+- ✅ Next.js App Router patterns (server actions, edge-ready APIs)
+- ✅ Secure API communication + validation (XSS-safe rendering, schema validation)
+- ✅ Firebase rules + role-based access (admin dashboards)
+- ✅ Unity + web connectivity (webview messaging, REST bridges)
+
+</details>
+
+---
+
+## ✨ Animated Extras
+> These are “safe” GitHub-friendly animations (no JS required).
+
+### 🐍 Contribution Snake (setup once)
+Add this workflow to a repo (or your profile repo) to generate the snake SVG/GIF and display it here.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/C0DZ1LLA/C0DZ1LLA/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+### 🧿 Metrics (optional)
+<p align="center">
+  <img src="https://github.com/C0DZ1LLA/C0DZ1LLA/blob/main/github-metrics.svg" />
+</p>
+
+---
+
+## 🤝 Contact
+- 🌐 Website: https://www.samanconnect.com/
+- 💬 Collaboration: product builds, UI systems, AI integrations, automation
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&text=Build%20the%20future%20%E2%86%92&fontAlign=50&fontAlignY=50&color=0:0b1220,100:050816&fontColor=00f5ff" />
+</p>
