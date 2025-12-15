@@ -85,23 +85,18 @@ I don’t just code. I **architect**, **design**, and **ship**.
 
 ## 🏗️ Featured Systems (Add your best projects here)
 
-> Replace the links/titles with your real repos.
-
-- **Project 01 — Futuristic Booking System** → `https://github.com/<your-username>/<repo>`
-- **Project 02 — AI Dashboard / Assistant** → `https://github.com/<your-username>/<repo>`
-- **Project 03 — Simulation Lab (Unity/Canvas)** → `https://github.com/<your-username>/<repo>`
 
 ---
 
 ## 📈 Live Activity (Auto-updating)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&hide_title=true&bg_color=000000&title_color=d4af37&text_color=f4f1e5&icon_color=d4af37&border_color=d4af37" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=<your-username>&background=000000&ring=d4af37&fire=d4af37&currStreakLabel=f4f1e5&sideLabels=f4f1e5&dates=a89b78&stroke=d4af37&border=d4af37" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=<C0DZ1LLA>&show_icons=true&hide_title=true&bg_color=000000&title_color=d4af37&text_color=f4f1e5&icon_color=d4af37&border_color=d4af37" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=<C0DZ1LLA>&background=000000&ring=d4af37&fire=d4af37&currStreakLabel=f4f1e5&sideLabels=f4f1e5&dates=a89b78&stroke=d4af37&border=d4af37" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<your-username>&bg_color=000000&color=f4f1e5&line=d4af37&point=d4af37&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<C0DZ1LLA>&bg_color=000000&color=f4f1e5&line=d4af37&point=d4af37&area=true&hide_border=true" />
 </p>
 
 ---
