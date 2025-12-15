@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Saman%20Abotaleby&fontAlign=50&fontAlignY=35&color=0:050816,100:0b1220&fontColor=00f5ff&desc=AI%20Builder%20%7C%20Next.js%20%7C%20Unity%20%7C%20Futuristic%20UI&descAlign=50&descAlignY=58" />
 </p>
@@ -57,24 +56,36 @@ I build **production-ready web apps** with a futuristic UI edge — and I’m ob
     <td width="50%">
       <h3>🚀 AionCodeOracle</h3>
       <p>AI-powered tools + futuristic UI experiments. Fast prototypes that evolve into products.</p>
-
+      <p>
+        <a href="https://github.com/YOUR_USERNAME/AionCodeOracle">Repo</a> •
+        <a href="https://aioncodeoracle.vercel.app">Live</a>
+      </p>
     </td>
     <td width="50%">
       <h3>📅 Universal Booking Engine</h3>
       <p>Admin-first booking system with settings engine, clean UX, and scalable logic.</p>
-
+      <p>
+        <a href="https://github.com/YOUR_USERNAME/booking-app">Repo</a> •
+        <a href="https://booking-app.vercel.app">Live</a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🧪 Simulation Lab</h3>
       <p>Interactive simulations (space/chem/3D) — HTML prototypes → Next.js builds.</p>
-
+      <p>
+        <a href="https://github.com/YOUR_USERNAME/simulation-lab">Repo</a> •
+        <a href="https://simulation-lab.vercel.app">Live</a>
+      </p>
     </td>
     <td width="50%">
       <h3>💳 Digital Storefront</h3>
       <p>Stripe-powered product delivery: secure downloads, receipts, and admin control.</p>
-
+      <p>
+        <a href="https://github.com/YOUR_USERNAME/digital-store">Repo</a> •
+        <a href="https://digital-store.vercel.app">Live</a>
+      </p>
     </td>
   </tr>
 </table>
@@ -105,12 +116,12 @@ I build **production-ready web apps** with a futuristic UI edge — and I’m ob
 Add this workflow to a repo (or your profile repo) to generate the snake SVG/GIF and display it here.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/C0DZ1LLA/C0DZ1LLA/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ### 🧿 Metrics (optional)
 <p align="center">
-  <img src="https://github.com/C0DZ1LLA/C0DZ1LLA/blob/main/github-metrics.svg" />
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/github-metrics.svg" />
 </p>
 
 ---
