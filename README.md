@@ -1,135 +1,100 @@
+<!--
+  Futuristic GitHub Profile README (No project links / no username references)
+  Paste into your profile repo README.md
+-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Saman%20Abotaleby&fontAlign=50&fontAlignY=35&color=0:050816,100:0b1220&fontColor=00f5ff&desc=AI%20Builder%20%7C%20Next.js%20%7C%20Unity%20%7C%20Futuristic%20UI&descAlign=50&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Saman%20Abotaleby&fontAlign=50&fontAlignY=34&color=0:050816,100:0b1220&fontColor=00f5ff&desc=AI%20Builder%20%E2%80%A2%20Next.js%20%E2%80%A2%20Unity%20%E2%80%A2%20Futuristic%20UI&descAlign=50&descAlignY=58" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2600&pause=380&color=00F5FF&center=true&vCenter=true&width=900&lines=Ship%20clean%20systems.%20Build%20futuristic%20interfaces.;Next.js%20%2B%20Vercel%20%2B%20OpenAI%20%7C%20Production%20mindset.;Unity%20real-time%203D%20%7C%20Web%20apps%20%7C%20Automation.;Ideas%20%E2%86%92%20Prototypes%20%E2%86%92%20Products%20%E2%86%92%20Revenue." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2400&pause=420&color=00F5FF&center=true&vCenter=true&width=920&lines=Systems%20that%20feel%20alive.;Interfaces%20that%20feel%20future.;AI%20workflows%20%E2%86%92%20real%20products.;Build.%20Ship.%20Evolve." />
 </p>
 
 <p align="center">
-  <a href="https://www.samanconnect.com/">
-    <img src="https://img.shields.io/badge/Website-samanconnect.com-00f5ff?style=for-the-badge&logo=googlechrome&logoColor=0b1220" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-@YOUR_USERNAME-00f5ff?style=for-the-badge&logo=github&logoColor=0b1220" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/216656973-63e3b400-1b7c-4f2a-9d69-1c1c34ddc4b5.gif" width="920" alt="glow divider" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mode-Builder-00f5ff?style=for-the-badge&logo=vercel&logoColor=0b1220" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Web%20%2B%203D-00f5ff?style=for-the-badge&logo=react&logoColor=0b1220" />
   <img src="https://img.shields.io/badge/Timezone-Asia%2FNicosia-00f5ff?style=for-the-badge&logo=clockify&logoColor=0b1220" />
 </p>
 
-<p align="center">
-  <!-- “Glow line” divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/216656973-63e3b400-1b7c-4f2a-9d69-1c1c34ddc4b5.gif" width="920" />
-</p>
-
-## 🧬 Professional Summary
-I build **production-ready web apps** with a futuristic UI edge — and I’m obsessed with systems that feel *alive*:
-- **AI integrations** (OpenAI workflows, agents, automation)
-- **Next.js + Vercel** (secure, scalable deployment, CI mindset)
-- **Unity real-time experiences** (3D sims + interactive prototypes)
-- **Monetizable products** (Stripe flows, secure delivery, dashboards)
-
 ---
 
-## ⚙️ Core Stack
-<p>
+## 🧬 Identity Kernel
+**SAMANCONNECT** is my “build engine” — a mindset + toolkit for creating:
+- **AI-driven workflows** (LLMs, automation, assistants)
+- **Next.js systems** (fast, secure, deployable)
+- **Unity real-time experiences** (3D, interactive sim layers)
+- **Futuristic UI** (neon glass, clean structure, high clarity)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/215283072-3a0f4f6e-1a0c-4f5a-8b19-8b9eaa2b3b65.gif" width="920" alt="neon line" />
+</p>
+
+## ⚙️ Tech Arsenal
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,nodejs,firebase,vercel,git,github,python,unity" />
 </p>
 
 ---
 
-## 🛰️ Live Signals
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github&hide_border=true&bg_color=050816&title_color=00f5ff&text_color=e6f9ff&icon_color=00f5ff" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true&background=050816&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=9caac7&stroke=0b1220" />
-</p>
+## 🛰️ The Way I Build
+- **Clarity first:** constraints → architecture → clean modules  
+- **Secure by default:** validation, safe rendering, least-privilege mindset  
+- **Ship fast:** prototype → iterate → harden → deploy  
+- **Product thinking:** UI polish + measurable outcomes + repeatable systems  
+
+---
+
+## 🧪 Live “Console” (Animated)
+```text
+╔══════════════════════════════════════════════════════════════╗
+║  STATUS: ONLINE                                              ║
+║  MODE:   FUTURE-READY BUILDS                                 ║
+║  LOOP:   IDEA → PROTOTYPE → PRODUCT → IMPROVE                ║
+║  RULE:   SIMPLE UI  +  STRONG LOGIC  =  SCALABLE SYSTEMS      ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050816&title_color=00f5ff&text_color=e6f9ff" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656978-3d8ad9d8-6dba-4c8a-b9b0-77f74f5900a7.gif" width="920" alt="animated grid" />
 </p>
 
 ---
 
-## 🧩 Featured Systems (edit these to match your pinned repos)
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🚀 AionCodeOracle</h3>
-      <p>AI-powered tools + futuristic UI experiments. Fast prototypes that evolve into products.</p>
-      <p>
-        <a href="https://github.com/YOUR_USERNAME/AionCodeOracle">Repo</a> •
-        <a href="https://aioncodeoracle.vercel.app">Live</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>📅 Universal Booking Engine</h3>
-      <p>Admin-first booking system with settings engine, clean UX, and scalable logic.</p>
-      <p>
-        <a href="https://github.com/YOUR_USERNAME/booking-app">Repo</a> •
-        <a href="https://booking-app.vercel.app">Live</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🧪 Simulation Lab</h3>
-      <p>Interactive simulations (space/chem/3D) — HTML prototypes → Next.js builds.</p>
-      <p>
-        <a href="https://github.com/YOUR_USERNAME/simulation-lab">Repo</a> •
-        <a href="https://simulation-lab.vercel.app">Live</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>💳 Digital Storefront</h3>
-      <p>Stripe-powered product delivery: secure downloads, receipts, and admin control.</p>
-      <p>
-        <a href="https://github.com/YOUR_USERNAME/digital-store">Repo</a> •
-        <a href="https://digital-store.vercel.app">Live</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🧠 What I’m focusing on now
-- Turning **simulations + AI tools** into real products people pay for  
-- Building **repeatable workflows** (CI, tests, secure APIs, input validation)  
-- Designing **futuristic UI systems** (glass, neon, motion, clarity)
+## ✨ “Animations” You Can Use on GitHub (No JS needed)
+GitHub blocks scripts — but these create a **real animated profile vibe**:
+- ✅ **GIF dividers / neon loops**
+- ✅ **Typing SVG headers**
+- ✅ **Capsule-render banners**
+- ✅ **Badges + skill icons**
+- ✅ **Collapsible panels** for a clean “console UI” feel
 
 <details>
-  <summary><b>🧪 “Labs” (click to expand)</b></summary>
+  <summary><b>🧠 Playbook (click)</b></summary>
 
-- ✅ Next.js App Router patterns (server actions, edge-ready APIs)
-- ✅ Secure API communication + validation (XSS-safe rendering, schema validation)
-- ✅ Firebase rules + role-based access (admin dashboards)
-- ✅ Unity + web connectivity (webview messaging, REST bridges)
+- Build a landing-ready **portfolio section** (screenshots/GIFs only)
+- Add a **workflow badge row** (tests, build, deploy)
+- Add **“Now / Next / Later”** roadmap cards
+- Add **Pinned Repos** manually on GitHub to control the “home screen”
 
 </details>
 
 ---
 
-## ✨ Animated Extras
-> These are “safe” GitHub-friendly animations (no JS required).
-
-### 🐍 Contribution Snake (setup once)
-Add this workflow to a repo (or your profile repo) to generate the snake SVG/GIF and display it here.
+## 🧿 Brand Aesthetic
+- Palette: **#050816** (deep space) • **#0b1220** (panel) • **#00f5ff** (neon)
+- UI style: **glass panels + crisp typography + glow separators**
+- Tone: **professional, calm, confident**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=96&text=BUILD%20THE%20FUTURE%20%E2%86%92&fontAlign=50&fontAlignY=50&color=0:0b1220,100:050816&fontColor=00f5ff" />
 </p>
 
-### 🧿 Metrics (optional)
+<!-- Optional: keep or remove this single link -->
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/github-metrics.svg" />
-</p>
-
----
-
-## 🤝 Contact
-- 🌐 Website: https://www.samanconnect.com/
-- 💬 Collaboration: product builds, UI systems, AI integrations, automation
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&text=Build%20the%20future%20%E2%86%92&fontAlign=50&fontAlignY=50&color=0:0b1220,100:050816&fontColor=00f5ff" />
+  <sub>Website: https://www.samanconnect.com/</sub>
 </p>
