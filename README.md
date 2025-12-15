@@ -17,9 +17,7 @@
   <img src="https://img.shields.io/badge/Theme-Gold%20%26%20Black-0b0b0b?style=for-the-badge&logo=protonvpn&logoColor=d4af37" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
+
 
 ## 🧬 Identity Snapshot
 **I build systems, not just pages.**  
