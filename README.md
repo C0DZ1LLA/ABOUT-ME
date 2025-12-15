@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.samanconnect.com/"><img src="https://img.shields.io/badge/Portfolio-samanconnect.com-0b0b0b?style=for-the-badge&logo=vercel&logoColor=d4af37" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-0b0b0b?style=for-the-badge&logo=github&logoColor=d4af37" /></a>
+  <a href="https://github.com/C0DZ1LLA"><img src="https://img.shields.io/badge/GitHub-C0DZ1LLA-0b0b0b?style=for-the-badge&logo=github&logoColor=d4af37" /></a>
   <img src="https://img.shields.io/badge/Theme-Gold%20%26%20Black-0b0b0b?style=for-the-badge&logo=protonvpn&logoColor=d4af37" />
 </p>
 
@@ -98,16 +98,16 @@ I’m a self-taught, multidisciplinary creator focused on **AI-powered products*
 
 ## 📈 Live Signal (Stats + Momentum)
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&bg_color=0b0b0b&title_color=d4af37&text_color=f4f1e5&icon_color=d4af37&border_color=d4af37" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&background=0b0b0b&ring=d4af37&fire=d4af37&currStreakLabel=d4af37&sideLabels=d4af37&currStreakNum=f4f1e5&sideNums=f4f1e5&dates=a89b78&border=d4af37" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=C0DZ1LLA&show_icons=true&hide_title=true&bg_color=0b0b0b&title_color=d4af37&text_color=f4f1e5&icon_color=d4af37&border_color=d4af37" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=C0DZ1LLA&background=0b0b0b&ring=d4af37&fire=d4af37&currStreakLabel=d4af37&sideLabels=d4af37&currStreakNum=f4f1e5&sideNums=f4f1e5&dates=a89b78&border=d4af37" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0b0b0b&color=f4f1e5&line=d4af37&point=c9a236&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C0DZ1LLA&bg_color=0b0b0b&color=f4f1e5&line=d4af37&point=c9a236&area=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&row=1&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=C0DZ1LLA&theme=onedark&no-frame=true&row=1&margin-w=10&margin-h=10" />
 </p>
 
 ---
