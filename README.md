@@ -110,14 +110,7 @@ I’m a self-taught, multidisciplinary creator focused on **AI-powered products*
 
 ---
 
-## 🧿 Featured Systems (Pin-Style)
-> Replace these with your actual repos / flagship projects.
 
-- **Project: Futuristic Booking System** — Next.js + Firebase + Admin Dashboard  
-- **Project: AI Tool Control Panel** — GPT workflows + secure API + automation  
-- **Project: Simulation Lab** — Unity / HTML5 interactive experiments
-
----
 
 ## 🛰️ Connect
 - 🌍 Website: https://www.samanconnect.com/
